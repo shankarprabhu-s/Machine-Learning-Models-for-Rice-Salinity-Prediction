@@ -1,3 +1,4 @@
+# App is stopped... Cloud is expensive bruh 🤑🤑
 # 🌾 MACHINE LEARNING MODELS FOR RICE SALINITY PREDICTION 🌾
 
 ## 🌟 Overview
